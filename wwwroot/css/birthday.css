@@ -1,0 +1,9 @@
+.birthday-video {
+    width: 100%;
+    max-width: 360px;        /* Mobile portrait width */
+    height: 640px;           /* Vertical height */
+    object-fit: cover;
+    border-radius: 25px;
+    border: 6px solid #ff6f91;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+}
